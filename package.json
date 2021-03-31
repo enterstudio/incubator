@@ -18,7 +18,7 @@
         "url": "http://github.com/OpenSocial/incubator.git"
     },
     "dependencies": {
-        "underscore": "1.4.x"
+        "underscore": "1.12.1"
     },
     "licenses":[
         {
